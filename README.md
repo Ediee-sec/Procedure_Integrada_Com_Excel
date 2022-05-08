@@ -3,7 +3,7 @@
 
  * **Estudo de Caso**
  
- > *Em uma empresa o gerente comencial pediu para você um relatório em excel do faturamento mensal por produto, você como DBA deve fornecer estes dados e integla-los ao excel.*
+ > *Em uma empresa o gerente de compras pediu para você um relatório em excel das compras mensais por produto, você como DBA deve fornecer estes dados e integla-los ao excel.*
  
  > *Para está situação podemos fazer utilizando uma **View** que é mais comum para está finalidade, ou uma **Procedure**, neste caso em questão irei demonstrar com uma **Procedure***
  
@@ -12,7 +12,7 @@
  ### **Dicas**
 
 * **Tabelas**
-1. *Tabela **Purchasing.PurchaseOrderDetail**, detalhes da venda*
+1. *Tabela **Purchasing.PurchaseOrderDetail**, detalhes da compra*
 2. *Tabela **Production.Product**, detalhes dos produtos*
 
 * **Campos**
