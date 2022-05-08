@@ -19,10 +19,10 @@
 
 1. *Descrição do produto **Name** da Tabela **Production.Product***
 2. *Número do Produto **ProductNumber** da tabela **Production.Product***
-3. *Quantidade da venda **OrderQty** da tabela **Purchasing.PurchaseOrderDetail***
+3. *Quantidade da Compra **OrderQty** da tabela **Purchasing.PurchaseOrderDetail***
 4. *Preço unitário do produto **UnitPrice** da tabela **Purchasing.PurchaseOrderDetail***
-5. *Valor total da Venda **LineTotal** da tabela **Purchasing.PurchaseOrderDetail***
-6. *Data da venda **DueDate** da tabela **Purchasing.PurchaseOrderDetail***
+5. *Valor total da Compra **LineTotal** da tabela **Purchasing.PurchaseOrderDetail***
+6. *Data da Compra **DueDate** da tabela **Purchasing.PurchaseOrderDetail***
 
 * **Parâmetros**
 
